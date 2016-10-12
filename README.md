@@ -1,4 +1,4 @@
-# Iglu_Exercise
+# Exercise
 Lab Exercise for Shopping Basket
 
 Task Details:
